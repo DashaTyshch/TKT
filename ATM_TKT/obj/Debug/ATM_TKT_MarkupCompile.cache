@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\KMA\3\1\MOOP\project\ATM_TKT\ATM_TKT\obj\Debug\
+D:\VSProjects\TKT\ATM_TKT\obj\Debug\
 ATM_TKT
 none
 false
 DEBUG;TRACE
-D:\KMA\3\1\MOOP\project\ATM_TKT\ATM_TKT\App.xaml
-2-363392070
+D:\VSProjects\TKT\ATM_TKT\App.xaml
+3-886030366
 
-10139943714
+11-389106668
 131569487696
-MainWindow.xaml;Pages\MainPage.xaml;
+LoginPage.xaml;MainWindow.xaml;SignUpPage.xaml;
 
 True
 
